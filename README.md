@@ -1,4 +1,5 @@
 **Task 1: Exploring and Visualizing a Simple Dataset**
+
 **Objective**
 The objective of this task is to learn how to load, inspect, and visualize a dataset to understand data trends, feature distributions, and relationships between variables using basic data analysis techniques.
 
